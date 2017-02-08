@@ -3,9 +3,9 @@
 h1 {
 	text-align: center;
 	color: black;
-	padding: 5px;
 	font-family: helvetica;
 	text-decoration: underline;
+	font-size: 50px;
 }
 
 body {
