@@ -1,6 +1,6 @@
 /* resume.css */
 
-h1 {
+title {
 	text-align: center;
 	color: black;
 	font-size: 60px;
@@ -15,10 +15,10 @@ h3 {
 
 body {
 	background-color: lightblue;
-	font-family: helvetica
+	font-family: helvetica;
 	padding: 20px;
 	margin-left: 5%;
-	margin right: 100px;
+	margin-right: 100px;
 }
 
 p {
