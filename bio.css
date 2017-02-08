@@ -12,7 +12,11 @@ body {
 	font-size: 25px;
 	color: black;
 	font-family: helvetica;
-	padding: 20px;
+	padding: 10px;
 	margin-left: 5%;
 	margin-right: 100px;
+}
+
+h3 {
+	text-align: center;
 }
