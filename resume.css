@@ -1,18 +1,5 @@
 /* resume.css */
 
-h1 {
-	text-align: center;
-	color: black;
-	font-size: 60px;
-	padding: 10px;
-	text-decoration: underline;
-
-}
-
-h3 {
-	text-align: center;
-}
-
 body {
 	background-color: lightblue;
 	font-family: helvetica;
@@ -21,7 +8,10 @@ body {
 	margin-right: 100px;
 }
 
-p {
-	margin-left: 30px;
-	margin-right: 50%;
+h3 {
+	text-align: center;
+}
+
+#pdf {
+	text-align: center; 
 }

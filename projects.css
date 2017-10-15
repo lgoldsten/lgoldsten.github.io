@@ -1,0 +1,29 @@
+/* projects.css */
+
+h1 {
+	text-align: center;
+	color: black;
+	font-family: helvetica;
+	text-decoration: underline;
+	font-size: 50px;
+}
+
+body {
+	background-color: lightblue;
+	font-size: 25px;
+	color: black;
+	font-family: helvetica;
+	padding: 20px;
+	margin-left: 5%;
+	margin-right: 100px;
+}
+
+p{ 
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+
+h3 {
+	text-align: center;
+}
